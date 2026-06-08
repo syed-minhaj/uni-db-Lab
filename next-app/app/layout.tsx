@@ -16,8 +16,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Inventory Management App",
-  description: "Store inventory and order management",
+  title: "Inventory Tracker",
+  description: "Inventory Tracker and Order Management",
 };
 
 export const dynamic = "force-dynamic";

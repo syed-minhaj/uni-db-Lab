@@ -11,7 +11,7 @@ export default async function Home() {
       <div className="flex flex-col w-11/12 mx-auto gap-6">
         <div className="flex items-center mt-8">
             <div className="flex items-center font-semibold text-nowrap">
-            Inventory Management System
+                Inventory Tracker
             </div>
             <InputArea />
         </div>
